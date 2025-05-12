@@ -1,4 +1,6 @@
-import { useState } from 'react'
+git remote add origin https://github.com/Urazai2/atvuseState.git
+git branch -M main
+git push -u origin mainimport { useState } from 'react'
 
 function App() {
   const[numero, setNumero] = useState(100);
